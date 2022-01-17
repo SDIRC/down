@@ -1,0 +1,22 @@
+
+img.opacity {
+    opacity: 0.5;
+  }
+
+  .button {
+      padding: 2px;
+      border-radius: 5px;
+      background-color: #0d2a7c;
+      color: #ffffff;
+      width: 50%;
+      text-align: center;
+      margin: 12px;
+  }
+
+  .social, .blue {
+    color: #0d2a7c;
+  }
+
+  a.underline {
+      text-decoration: underline;
+  }
